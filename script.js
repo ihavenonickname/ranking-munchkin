@@ -6,7 +6,7 @@ const MATCHES = [
     },
     {
         date: '05/02/2021',
-        players: ['Gabriel', 'Vini', 'Pablo do Acre', 'Mulher do Pablo'],
+        players: ['Gabriel', 'Vini', 'Pablo do Acre', 'Patrícia'],
         winner: 'Vini'
     },
     {
