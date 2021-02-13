@@ -19,6 +19,21 @@ const MATCHES = [
         players: ['Gabriel', 'Vini', 'Pablo do Acre'],
         winner: 'Gabriel'
     },
+    {
+        date: '13/02/2021',
+        players: ['Gabriel', 'Vini', 'Pablo do Acre', 'Patrícia', 'Perneta'],
+        winner: 'Gabriel'
+    },
+    {
+        date: '13/02/2021',
+        players: ['Gabriel', 'Vini', 'Pablo do Acre', 'Patrícia', 'Perneta'],
+        winner: 'Gabriel'
+    },
+    {
+        date: '13/02/2021',
+        players: ['Gabriel', 'Pablo do Acre', 'Patrícia', 'Perneta'],
+        winner: 'Pablo do Acre'
+    },
 ]
 
 const generateRankingData = matches => {
