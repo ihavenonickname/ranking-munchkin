@@ -34,6 +34,11 @@ const MATCHES = [
         players: ['Gabriel', 'Pablo do Acre', 'Patrícia', 'Perneta'],
         winner: 'Pablo do Acre'
     },
+    {
+        date: '11/11/2022',
+        players: ['Gabriel', 'Pablo do Acre', 'Patrícia', 'Douglas'],
+        winner: 'Pablo do Acre'
+    },
 ]
 
 const generateRankingData = matches => {
